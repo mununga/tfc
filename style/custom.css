@@ -1,0 +1,40 @@
+#carousel-example-generic{
+   height: 40px;
+    width: 90%;
+}
+
+body{
+    background-color: #ccc;
+}
+#text{
+    width: 100%;
+}
+.contact-header{
+    text-align: center;
+}
+.img-1{
+    width: 100%;
+}
+
+.thumbnail{
+    width: 100%;
+}
+.picture{
+    width: 90%;
+
+}
+#carousel-example-generic{
+    width: 100%;
+   padding-bottom: 30%;
+}
+.title{
+    text-align: center;
+    text-decoration:underline;
+}
+#second{
+
+}
+.jumbotron{
+    border-bottom: 50px;
+    margin-bottom: 50px;
+}
